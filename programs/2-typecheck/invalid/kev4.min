@@ -1,0 +1,7 @@
+//String * float is not allowed
+
+var x: float = 2.3;
+var word: string = "hello";
+var result: string = "world";
+
+result = x * word;

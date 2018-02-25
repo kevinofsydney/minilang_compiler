@@ -1,0 +1,9 @@
+//Comparing int to string
+
+var x : int = 5;
+var y : string = "hello";
+
+if (x != y)
+{
+	print y;
+}

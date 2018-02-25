@@ -1,0 +1,8 @@
+//Bang/not a string
+
+var word: string = "hello";
+
+if (!word)
+{
+	print word;
+}

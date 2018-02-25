@@ -1,0 +1,7 @@
+//Adding a float to a string
+
+var x: float = 0.0;
+var word: string = "hello";
+var y: float = 1.0;
+
+x = word + y;
