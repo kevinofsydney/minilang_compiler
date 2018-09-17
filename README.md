@@ -1,2 +1,3 @@
 # minilang_compiler
-a poorly functioning compiler for minilang
+
+A compiler for the toy language 'Minilang', a a subset of the Go language.
